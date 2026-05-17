@@ -53,11 +53,11 @@ Seja bem-vindo ao meu perfil 🚀
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Reis021&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Reis021&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amagnelle/amagnelle/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amagnelle/amagnelle/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amagnelle/amagnelle/output/pacman-contribution-graph.svg">
+</picture>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Gabriel-Reis021&theme=tokyonight&hide_border=true"/>
