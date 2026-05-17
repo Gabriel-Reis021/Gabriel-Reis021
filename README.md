@@ -1,8 +1,15 @@
 <h1 align="center">Olá, me chamo Gabriel Reis 👋</h1>
-<h2 align="center">Seja bem vindo ao meu perfil! </h2>
+
+<h3 align="center">
+Seja bem-vindo ao meu perfil 🚀
+</h3>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas e futuro Engenheiro de Dados 🚀
+  Estudante de ADS e profissional em formação na área de Engenharia de Dados
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=24&center=true&vCenter=true&width=700&lines=Data+Engineering;Cloud+Computing;Databricks+%7C+Spark+SQL+%7C+Python;Always+learning+new+technologies" />
 </p>
 
 ---
@@ -47,13 +54,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Reis021&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Reis021&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Reis021&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Reis021&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gabriel-Reis021&theme=tokyonight&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com?user=Gabriel-Reis021&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
