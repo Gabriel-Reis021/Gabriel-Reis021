@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me chamo Gabriel Reis 👋</h1>
+<h1 align="center">Olá, eu sou Gabriel Reis 👋</h1>
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas e futuro Engenheiro de Dados 🚀
@@ -19,7 +19,17 @@
 ### 🛠️ Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,azure,git,github,html,css,js,react,php,bootstrap,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,azure,git,github,mysql,react,js,html,css,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
+
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
 ---
@@ -36,11 +46,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Reis021&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Reis021&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gabriel-Reis021&theme=tokyonight&hide_border=false"/>
+</p>
+
 ---
 
 ### 🌎 Onde me encontrar
