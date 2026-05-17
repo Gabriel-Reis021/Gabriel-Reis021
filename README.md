@@ -1,4 +1,5 @@
-<h1 align="center">Olá, eu sou Gabriel Reis 👋</h1>
+<h1 align="center">Olá, me chamo Gabriel Reis 👋</h1>
+<h2 align="center">Seja bem vindo ao meu perfil! </h2>
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas e futuro Engenheiro de Dados 🚀
